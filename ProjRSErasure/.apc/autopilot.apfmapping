@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="rs_erasure.c" path="C:\Users\Jorge\Documents\reed_solomon_erasure\src\rs_erasure.c"/>
+  </source>
+  <testbench>
+    <originFiles name="tv_rs_erasure_mout.txt" path="C:\Users\Jorge\Documents\reed_solomon_erasure\tv\tv_rs_erasure_mout.txt"/>
+    <originFiles name="tv_rs_erasure_in.txt" path="C:\Users\Jorge\Documents\reed_solomon_erasure\tv\tv_rs_erasure_in.txt"/>
+    <originFiles name="tb_rs_erasure.c" path="C:\Users\Jorge\Documents\reed_solomon_erasure\tb\tb_rs_erasure.c"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

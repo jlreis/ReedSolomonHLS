@@ -1,0 +1,18 @@
+INFO: [SIM 2] *************** CSIM start ***************
+WARNING: [SIM 51] HLS only supports CLANG compiler in Linux.
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling(apcc) ../../../../src/rs_erasure.c in debug mode
+INFO: [HLS 200-10] Running 'c:/Xilinx/Vivado_HLS/2016.4/bin/unwrapped/win64.o/apcc.exe'
+INFO: [HLS 200-10] For user 'Jorge Reis' on host 'lesc_pc_01' (Windows NT_amd64 version 6.2) on Tue Apr 10 15:50:10 -0300 2018
+INFO: [HLS 200-10] In directory 'C:/reed_solomon_erasure/ProjRSErasure/SolutionX/csim/build'
+INFO: [APCC 202-3] Tmp directory is apcc_db
+INFO: [APCC 202-1] APCC is done.
+   Generating csim.exe
+	[0]   0 out of   2 test vectors failed.
+	[1]   0 out of   0 test vectors failed.
+	[2]   0 out of   0 test vectors failed.
+	[3]   0 out of   0 test vectors failed.
+Total 2 Test Vectors, Err Count = 0.
+Test Passed!
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************

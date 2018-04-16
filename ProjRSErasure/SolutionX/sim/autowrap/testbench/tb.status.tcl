@@ -1,0 +1,1 @@
+set ::AESL_AUTOSIM::gTopFileName rs_erasure.c_pre.c.tb.c

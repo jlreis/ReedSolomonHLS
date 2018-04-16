@@ -1,0 +1,20 @@
+INFO: [HLS 200-10] Running 'C:/Xilinx/Vivado/2018.1/bin/unwrapped/win64.o/vivado_hls.exe'
+INFO: [HLS 200-10] For user 'Jorge' on host 'desktop-00180ef' (Windows NT_amd64 version 6.2) on Mon Apr 16 14:05:32 -0300 2018
+INFO: [HLS 200-10] In directory 'C:/Users/Jorge/Documents/reed_solomon_erasure'
+INFO: [HLS 200-10] Opening project 'C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure'.
+INFO: [HLS 200-10] Opening solution 'C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX'.
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 3.3ns.
+INFO: [SYN 201-201] Setting up clock 'default' with an uncertainty of 0.3ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a35tcpg236-1'
+INFO: [IMPL 213-8] Exporting RTL as a Vivado IP.
+
+****** Vivado v2018.1 (64-bit)
+  **** SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+  **** IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+    ** Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+
+source run_ippack.tcl -notrace
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.1/data/ip'.
+INFO: [Common 17-206] Exiting Vivado at Mon Apr 16 14:06:07 2018...

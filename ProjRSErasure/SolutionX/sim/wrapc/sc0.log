@@ -1,0 +1,19 @@
+   Build using "C:/Xilinx/Vivado/2018.1/msys/bin/g++.exe"
+   Compiling apatb_rs_erasure.cpp
+   Compiling (apcc) rs_erasure.c_pre.c.tb.c
+INFO: [HLS 200-10] Running 'c:/Xilinx/Vivado/2018.1/bin/unwrapped/win64.o/apcc.exe'
+INFO: [HLS 200-10] For user 'Jorge' on host 'desktop-00180ef' (Windows NT_amd64 version 6.2) on Thu Apr 12 15:06:56 -0300 2018
+INFO: [HLS 200-10] In directory 'C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/wrapc'
+clang: warning: argument unused during compilation: '-fno-builtin-isinf'
+clang: warning: argument unused during compilation: '-fno-builtin-isnan'
+INFO: [APCC 202-3] Tmp directory is apcc_db
+INFO: [APCC 202-1] APCC is done.
+   Compiling (apcc) tb_rs_erasure.c_pre.c.tb.c
+INFO: [HLS 200-10] Running 'c:/Xilinx/Vivado/2018.1/bin/unwrapped/win64.o/apcc.exe'
+INFO: [HLS 200-10] For user 'Jorge' on host 'desktop-00180ef' (Windows NT_amd64 version 6.2) on Thu Apr 12 15:07:04 -0300 2018
+INFO: [HLS 200-10] In directory 'C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/wrapc'
+clang: warning: argument unused during compilation: '-fno-builtin-isinf'
+clang: warning: argument unused during compilation: '-fno-builtin-isnan'
+INFO: [APCC 202-3] Tmp directory is apcc_db
+INFO: [APCC 202-1] APCC is done.
+   Generating cosim.tv.exe

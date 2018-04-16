@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Thu Apr 12 15:19:38 2018
+# Process ID: 6072
+# Current directory: C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog
+# Command line: vivado.exe -source open_wave.tcl
+# Log file: C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/vivado.log
+# Journal file: C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog\vivado.jou
+#-----------------------------------------------------------
+start_gui
+source open_wave.tcl
+# current_fileset
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.1/data/ip'.
+current_fileset: Time (s): cpu = 00:00:07 ; elapsed = 00:00:08 . Memory (MB): peak = 755.145 ; gain = 42.355
+# open_wave_database rs_erasure.wdb
+open_wave_config C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure.wcfg

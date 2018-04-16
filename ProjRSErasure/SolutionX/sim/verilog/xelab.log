@@ -1,0 +1,268 @@
+INFO: [XSIM 43-3496] Using init file passed via -initfile option "C:/Xilinx/Vivado/2018.1/data/xsim/ip/xsim_ip.ini".
+Vivado Simulator 2018.1
+Copyright 1986-1999, 2001-2017 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.1/bin/unwrapped/win64.o/xelab.exe xil_defaultlib.apatb_rs_erasure_top glbl -prj rs_erasure.prj -L smartconnect_v1_0 -L axi_protocol_checker_v1_1_12 -L axi_protocol_checker_v1_1_13 -L axis_protocol_checker_v1_1_11 -L axis_protocol_checker_v1_1_12 -L xil_defaultlib -L unisims_ver --initfile C:/Xilinx/Vivado/2018.1/data/xsim/ip/xsim_ip.ini --lib ieee_proposed=./ieee_proposed -s rs_erasure -debug wave 
+Multi-threading is on. Using 2 slave threads.
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/glbl.v" into library work
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure.autotb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module apatb_rs_erasure_top
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATAem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATAem_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATAem
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATBew.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATBew_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATBew
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATbkb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATbkb_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATbkb
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATCeG.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATCeG_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATCeG
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATcud.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATcud_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATcud
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATdEe.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATdEe_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATdEe
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATDeQ.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATDeQ_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATDeQ
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATEe0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATEe0_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATEe0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATeOg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATeOg_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATeOg
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATFfa.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATFfa_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATFfa
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATfYi.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATfYi_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATfYi
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATg8j.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATg8j_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATg8j
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATGfk.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATGfk_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATGfk
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMAThbi.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMAThbi_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMAThbi
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATHfu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATHfu_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATHfu
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATibs.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATibs_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATibs
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATIfE.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATIfE_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATIfE
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATjbC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATjbC_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATjbC
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATJfO.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATJfO_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATJfO
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATkbM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATkbM_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATkbM
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATKfY.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATKfY_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATKfY
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATlbW.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATlbW_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATlbW
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATLf8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATLf8_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATLf8
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATmb6.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATmb6_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATmb6
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATMgi.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATMgi_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATMgi
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATncg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATncg_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATncg
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATNgs.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATNgs_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATNgs
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATocq.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATocq_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATocq
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATOgC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATOgC_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATOgC
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATpcA.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATpcA_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATpcA
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATPgM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATPgM_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATPgM
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATqcK.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATqcK_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATqcK
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATQgW.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATQgW_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATQgW
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATrcU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATrcU_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATrcU
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATRg6.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATRg6_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATRg6
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATsc4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATsc4_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATsc4
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATShg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATShg_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATShg
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATtde.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATtde_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATtde
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATThq.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATThq_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATThq
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATudo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATudo_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATudo
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATUhA.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATUhA_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATUhA
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATvdy.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATvdy_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATvdy
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATVhK.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATVhK_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATVhK
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATwdI.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATwdI_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATwdI
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATWhU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATWhU_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATWhU
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATxdS.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATxdS_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATxdS
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATyd2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATyd2_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATyd2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_DECMATzec.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATzec_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_DECMATzec
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_F_tbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_F_tbl_rom
+INFO: [VRFC 10-311] analyzing module rs_erasure_F_tbl
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Jorge/Documents/reed_solomon_erasure/ProjRSErasure/SolutionX/sim/verilog/rs_erasure_mux_42Xh4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_erasure_mux_42Xh4
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.rs_erasure_F_tbl_rom
+Compiling module xil_defaultlib.rs_erasure_F_tbl(DataWidth=9,Add...
+Compiling module xil_defaultlib.rs_erasure_DECMATbkb_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATbkb(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATcud_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATcud(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATdEe_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATdEe(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATeOg_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATeOg(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATfYi_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATfYi(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATg8j_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATg8j(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMAThbi_rom
+Compiling module xil_defaultlib.rs_erasure_DECMAThbi(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATibs_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATibs(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATjbC_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATjbC(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATkbM_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATkbM(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATlbW_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATlbW(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATmb6_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATmb6(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATncg_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATncg(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATocq_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATocq(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATpcA_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATpcA(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATqcK_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATqcK(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATrcU_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATrcU(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATsc4_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATsc4(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATtde_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATtde(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATudo_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATudo(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATvdy_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATvdy(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATwdI_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATwdI(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATxdS_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATxdS(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATyd2_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATyd2(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATzec_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATzec(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATAem_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATAem(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATBew_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATBew(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATCeG_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATCeG(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATDeQ_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATDeQ(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATEe0_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATEe0(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATFfa_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATFfa(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATGfk_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATGfk(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATHfu_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATHfu(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATIfE_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATIfE(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATJfO_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATJfO(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATKfY_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATKfY(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATLf8_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATLf8(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATMgi_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATMgi(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATNgs_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATNgs(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATOgC_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATOgC(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATPgM_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATPgM(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATQgW_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATQgW(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATRg6_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATRg6(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATShg_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATShg(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATThq_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATThq(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATUhA_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATUhA(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATVhK_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATVhK(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_DECMATWhU_rom
+Compiling module xil_defaultlib.rs_erasure_DECMATWhU(DataWidth=8...
+Compiling module xil_defaultlib.rs_erasure_mux_42Xh4(ID=1,din0_W...
+Compiling module xil_defaultlib.rs_erasure
+Compiling module xil_defaultlib.apatb_rs_erasure_top
+Compiling module work.glbl
+Built simulation snapshot rs_erasure
